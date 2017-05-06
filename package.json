@@ -1,0 +1,14 @@
+{
+  "name": "mnfun",
+  "version": "1.0.1",
+  "description": "moonlight functions",
+  "main": "mnfun.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mnfun"
+  ],
+  "author": "Huiqiang Meng",
+  "license": "UNLICENSED"
+}
